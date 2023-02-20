@@ -1,0 +1,52 @@
+[
+    {
+        "_id": 1,
+        "title":"১। বদনজর",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/1Ruqyah-EvilEye.mp3?alt=media&token=2ea4c79c-a518-4b25-b9d2-0bc2c327fa6f"
+    },
+    {
+        "_id": 2,
+        "title":"২। বদনজর হাসাদ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/2Ruqyah-EyeHasad.mp3?alt=media&token=57de43ad-efc1-444f-9522-02649893f544"
+    },
+    {
+        "_id": 3,
+        "title":"৩। সিহর মাস",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/3Ruqyah-Sihr-Mass.mp3?alt=media&token=f4c048da-e988-4903-baa3-166fdcff41bd"
+    },
+    {
+        "_id": 4,
+        "title":"৪। সিহর হিবশি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/4Ruqyah-Sihr-Hibshi.mp3?alt=media&token=6cf03973-5e20-4fb3-afd2-2830afa8c058"
+    },
+    {
+        "_id": 5,
+        "title":"৫। আয়াতুল হারক",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/5Ruqyah-Harq.mp3?alt=media&token=94a298ab-9a08-44fe-89b9-99e1b26e8702"
+    },
+    {
+        "_id": 6,
+        "title":"৬। আয়াতুল কুরসি",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/6Ruqyah-AyatulKursi.mp3?alt=media&token=ef75c9d5-bdaa-44c7-9bd7-5fe4294f153c"
+    },
+    {
+        "_id": 7,
+        "title":"৭। তিনকুল",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/7Ruqyah-3Kul.mp3?alt=media&token=26315eea-04be-44d9-9d6d-8c80f6e2672f"
+    },
+    {
+        "_id": 8,
+        "title":"৮। আট সুরা",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/8Ruqyah-8surah.mp3?alt=media&token=a48c62d1-9acb-4c58-a146-58e40c18b4a1"
+    },
+    {
+        "_id": 9,
+        "title":"৯। রুকইয়া - দু'আ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/9Ruqyah-dua.mp3?alt=media&token=3cd38141-4fa0-400e-b86c-2765b140a7ff"
+    },
+    {
+        "_id": 10,
+        "title":"১০। যাদুকরদের প্রতি অভিশাপ",
+        "src": "https://firebasestorage.googleapis.com/v0/b/sukunlife.appspot.com/o/10curse-against-magician.mp3?alt=media&token=eecf7738-248b-4278-9225-b488f3b22f70"
+    }
+]
