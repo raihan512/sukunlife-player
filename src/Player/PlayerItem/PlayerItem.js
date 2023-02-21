@@ -154,7 +154,7 @@ export default function PlayerItem({audio}) {
                             :   <PauseIcon fontSize={'large'} className="play-seek-btn" onClick={togglePlay}/>
                         }
                         <FastForwardIcon className="play-seek-btn" onClick={toggleForward} />
-                        <a href={audio.src}  className="download" onClick={() => setDownloaded(true)}>
+                        <a href={audio.src} target="_blank" className="download" onClick={() => setDownloaded(true)}>
                             { downloaded? <MdCloudDownload className="download-btn downloaded"/> :
                                 <MdCloudDownload className="download-btn"/>
 
